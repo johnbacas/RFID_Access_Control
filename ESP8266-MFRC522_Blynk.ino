@@ -15,10 +15,10 @@ SCK     = GPIO14
 GND     = GND
 3.3V    = 3.3V
 */
-
-#define BLYNK_TEMPLATE_ID "TMPL4GPNWf7XR"
-#define BLYNK_TEMPLATE_NAME "RFID Access Control"
-#define BLYNK_AUTH_TOKEN "5n3v3KEdy_tJoEIQCp8VixKAKbNECaEM"
+ // BLYNK.console Home - FirmWare Configuration
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 /* Comment this out to disable prints and save space */
 #define BLYNK_PRINT Serial
@@ -55,11 +55,9 @@ String tag = "";
 String currentTime;
 String currentDate;
 
-const char *ssid =	"COSMOTE-2DE72C";	    // change according to your Network
-const char *pass =	"2109026205";	// change according to your Network
+const char *ssid =	"YOUR NETWORK SSID";	    // change according to your Network
+const char *pass =	"YOUR NETWORK PASSWORD";	// change according to your Network
 
-//const char *ssid =  "RedmiNoteJB";     // change according to your Network
-//const char *pass =  "87654321"; // change according to your Network
 
 MFRC522 mfrc522(SS_PIN, RST_PIN);	// Create MFRC522 instance
 BlynkTimer timer;
