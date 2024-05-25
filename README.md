@@ -40,4 +40,4 @@
 
 SCHEMATIC:
 
-![RFID_Access_Control_Img] (https://github.com/johnbacas/RFID_Access_Control/blob/main/NodeMCU_RFID-RC522.jpg)
+![RFID_Access_Control_Img](https://github.com/johnbacas/RFID_Access_Control/blob/main/NodeMCU_RFID-RC522.jpg)
