@@ -40,7 +40,7 @@
 
 SCHEMATIC:
 
-![RFID_Access_Control_Img](https://github.com/johnbacas/Photos/RFID_Access_Control/blob/main/NodeMCU_RFID-RC522.jpg)
+![RFID_Access_Control_Img](https://github.com/johnbacas/RFID_Access_Control/Photos/NodeMCU_RFID-RC522.jpg)
 
 
 **Blynk Console - Εφαρμογή ειδοποιήσεων και καταγραφής των περιστατικών προσπάθειας πρόσβασης**
@@ -49,17 +49,17 @@ SCHEMATIC:
 Στο terminal καταγράφονται η ημερομηνία και η ώρα της πρόσβασης, και αν η πρόσβαση ήταν επιτυχής ή οχι. Επίσης γίνεται καταγραφή της χρήσης master card στο σύστημα.
 Παρακάτω φαίνεται ένα παράδειγμα καταγραφής.
 
-![Blynk Terminal](https://github.com/johnbacas/RFID_Access_Control/Photos/blob/main/Blynk_Terminal_Live.jpg)
+![Blynk Terminal](https://github.com/johnbacas/RFID_Access_Control/Photos/Blynk_Terminal_Live.jpg)
 
 Για να δημιουργήσετε το συσγκεκριμένο dashboard θα πρέπει να δημιουργήσετε ένα λογαρισμό στην εφαρμογή Blynk και στη συνέχεια, μπαίνοντας στο developer zone, να δημιουργήσετε ένα νεο template και στη συνέχεια ένα νεο Device.
 Εισάγετε το widget Terminal με τις παρακάτω ρυθμίσεις.
 
-![Blynk Terminal Configure](https://github.com/johnbacas/RFID_Access_Control/Photos/blob/main/Blynk_Terminal.jpg)
+![Blynk Terminal Configure](https://github.com/johnbacas/RFID_Access_Control/Photos/Blynk_Terminal.jpg)
 
 Επίσης, μην ξεχάσετε να προσθέσετε και ένα event ώστε να έχετε logging υπηρεσία στην εφαρμογή σας.
 
 ![Blynk Event](https://github.com/johnbacas/RFID_Access_Control/Photos/blob/main/Blynk_Event.jpg)
 
-![Blynk Log](https://github.com/johnbacas/RFID_Access_Control/Photos/blob/main/Blynk_EntranceLog.jpg)
+![Blynk Log](https://github.com/johnbacas/RFID_Access_Control/Photos/Blynk_EntranceLog.jpg)
 
 @ John Bacas
