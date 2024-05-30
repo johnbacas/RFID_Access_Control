@@ -62,4 +62,6 @@ SCHEMATIC:
 
 ![Blynk Log](Photos/Blynk_EntranceLog.jpg)
 
+Αν έχετε απορίες για το πως θα στήσετε την πρώτη σας εφαρμογή στο Blynk δείτε [εδώ](https://docs.blynk.io/en/getting-started/what-do-i-need-to-blynk)
+
 @ John Bacas
