@@ -64,4 +64,5 @@ SCHEMATIC:
 
 Αν έχετε απορίες για το πως θα στήσετε την πρώτη σας εφαρμογή στο Blynk δείτε [εδώ](https://docs.blynk.io/en/getting-started/what-do-i-need-to-blynk)
 
+Δείτε ένα [βίντεο](https://youtu.be/cB8p_oedzpM?si=Qd5MNCRZdafjuK6v) που εξηγεί την λειτουργία του κυκλώματος
 @ John Bacas
